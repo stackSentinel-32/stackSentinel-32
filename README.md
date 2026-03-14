@@ -91,17 +91,6 @@ piyush = {
 
 ---
 
-### 🎬 Movie Search & Recommendation App
-> **Python · Scikit-Learn · Pandas · Streamlit · TMDB API**
-
-- Built a **content-based recommendation engine** using TF-IDF vectorization & cosine similarity
-- Integrated **TMDB API** for real-time movie metadata and search
-- Deployed as an interactive **Streamlit web app** for real-time recommendations
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/piyush-sm-08/movie_search_and_recommendation_sytem)
-
----
-
 ### 🚢 Titanic Survival Prediction — Stacked Ensemble Classifier
 > **Python · Scikit-Learn · EDA · Feature Engineering · Pipelines**
 
@@ -109,51 +98,8 @@ piyush = {
 - Built a stacked ensemble using **Gradient Boosting, Random Forest & Logistic Regression**
 - Designed a modular **ML pipeline** with automated preprocessing via `Pipeline` & `ColumnTransformer`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/piyush-sm-08/Titanic_dataset_model)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/piyush-sm-08/Titanic_dataset_model)|
 
----
-
-### 🌾 Crop Yield Prediction Web App
-> **Python · Scikit-Learn · Streamlit**
-
-- End-to-end **regression system** predicting crop yields across **101 countries & 10 crop types**
-- Automated **feature scaling & encoding** for consistent model performance
-- Real-time dashboard deployed on **Streamlit** for instant data-driven predictions
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/piyush-sm-08/crop_yeild)
-
----
-
-### ⏱️ sktime (Forked & Explored)
-> **Python · Time Series · Machine Learning**
-
-- Forked **sktime** — a unified framework for machine learning with time series
-- Exploring time-series classification, forecasting, and regression techniques
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/piyush-sm-08/sktime)
-
----
-
-## 🏆 Achievements
-
-| | Achievement |
-|----|------------|
-| 🧠 | Building **AI for Healthcare** — CT-MRI image registration & medical guidance apps |
-| 🏅 | **Top 8%** on Kaggle — Titanic ML Challenge (82.28% accuracy) |
-| 🤖 | **3rd Place** — Robo Maze Solver Competition (40 teams) |
-| ⚽ | **6th Place** — Robo Soccer Competition (45 teams) |
-| 🍉 | **3rd Place** — Watermelon Quiz, Samvaad Club, IIITDM Jabalpur |
-| ⭐ | **CodeChef 2-Star** (Rating: 1409) |
-| 💻 | **100+ DSA problems** solved on LeetCode |
-| 📐 | **JEE Main 98.4 Percentile** |
-
----
-
-## 📜 Certifications
-
-- 🎓 **Kaggle — Machine Learning** · Supervised learning, model evaluation, feature engineering (Python & Scikit-learn)
-
----
 
 ## 📊 GitHub Stats
 
