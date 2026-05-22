@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Piyush Madheshiya 👋</h1>
 
 <h3 align="center">
-  AI/ML Developer | Top 8% Kaggle | ECE Undergrad @ IIITDM Jabalpur
+  AI/ML Developer | Top 6% Kaggle | ECE Undergrad @ IIITDM Jabalpur
 </h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/piyush-madheshiya-214b62287/">
+  <a href="https://www.linkedin.com/in/piyush-madheshiya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.kaggle.com/piyushmadheshiya">
@@ -14,12 +14,15 @@
   <a href="https://codeforces.com/profile/stackSentinel_32">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
+  <a href="https://www.codechef.com/users/stackSentinel_32">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
 </div>
 
 <br/>
 
 <p align="center">
-  I am a passionate Machine Learning engineer and Electronics & Communication Engineering student. I specialize in building end-to-end AI applications, with a strong focus on deploying deep learning models for healthcare solutions. I combine a strong foundation in Data Structures and Algorithms with a drive to solve complex, real-world problems.
+  I am an AI/ML developer and Electronics & Communication Engineering student (CPI: 8.3/10) specializing in end-to-end Machine Learning pipelines, RAG applications, and robust backend architectures. I enjoy competing in global hackathons, tackling competitive programming challenges, and optimizing models for real-world impact.
 </p>
 
 ---
@@ -27,42 +30,40 @@
 ## 🚀 Professional Profile
 
 - 🎓 **Education:** B.Tech in ECE at IIITDM Jabalpur (2024–2028).
-- 💡 **Specialization:** Deep Learning, Medical Image Processing (CT/MRI), and Predictive Modeling.
-- 🏆 **Achievements:** Ranked in the Top 8% on Kaggle | Secured 98.4%ile in JEE Main.
-- ⚙️ **Currently Building:** AI-assisted injury analysis tools and real-time environmental safety assistants.
+- 🏆 **Achievements:** Top 6% globally on Kaggle | Top 50 Global MLH Hackathon (HackByte 4.0) | 98.4%ile in JEE Main.
+- 💡 **Specialization:** Deep Learning, RAG Pipelines, Feature Engineering, and API Development.
+- ⚙️ **Currently Building:** Full-stack AI applications integrating LLMs (Gemini, LangChain) with streaming backends.
 
 ---
 
 ## 💻 Technical Arsenal
 
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+**Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Machine Learning & Data Science**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+**AI & Machine Learning** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Tools & Deployment**  
+**Backend, DBs & DevOps** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ---
 
 ## 🏗️ Featured Projects
 
-| Project | Description | Tech Stack & Impact |
-|---------|-------------|---------------------|
-| **[DeepMedAlign](https://github.com/stackSentinel-32/DeepMedAlign)** | Deep learning architecture for CT-MRI image registration, fusion, and AI-assisted injury detection. | `PyTorch`, `OpenCV` <br> *Focus: Healthcare AI* |
-| **[MediGuide](https://github.com/stackSentinel-32/MediGuide)** | Intelligent medical guidance application predicting potential ailments from user symptoms. | `Python`, `Scikit-Learn` <br> *Focus: Predictive ML* |
-| **[LifeCheck AI+](https://github.com/stackSentinel-32)** | Real-time environmental safety assistant developed during a recent hackathon. | `Gemini API`, `SpaceTimeDB` <br> *Focus: Real-time AI* |
+| Project | Description | Tech Stack & Metrics |
+|---------|-------------|----------------------|
+| **LifeCheckAI** | Full-stack environmental risk platform serving real-time AQI across 50+ Indian cities. | `FastAPI`, `Next.js`, `Gemini` <br> *Impact: 99% uptime via AI-provider fallback chains.* |
+| **MediGuide** | End-to-end RAG medical assistant with semantic search over PDF documents. | `LangChain`, `ChromaDB`, `Docker` <br> *Impact: Cut query-to-answer latency by 40%.* |
+| **Titanic Classifier** | Advanced ensemble pipeline with hyperparameter tuning across 200+ combinations. | `scikit-learn`, `Python` <br> *Impact: Scored 82.28% accuracy (Top 6% on Kaggle).* |
+| **Movie Engine** | Content-based filtering system using TF-IDF vectorization. | `Streamlit`, `TMDB API` <br> *Impact: Sub-200ms latency across a 10,000+ dataset.* |
 
 ---
 
