@@ -181,9 +181,9 @@ class Piyush:
 
 | Platform | Handle | Rating / Status |
 |:---:|:---:|:---:|
-| 🟡 CodeChef | stackSentinel_32 | ⭐⭐ (max 1520) |
-| 🔵 Codeforces | stackSentinel_32 | max 1050 |
-| 🟠 LeetCode | — | 150+ problems solved |
+| 🟡 CodeChef | codo_demono | ⭐⭐ (max 1518) |
+| 🔵 Codeforces | optimus_sm_08 | max 1095 |
+| 🟠 LeetCode | optimus_sm_08 | 150+ problems solved |
 | 🔴 Kaggle | piyushmadheshiya | 🏆 Top 6% globally |
 
 </div>
