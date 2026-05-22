@@ -45,7 +45,7 @@ class Piyush:
 | 🎯 **Kaggle Top 6%** | Titanic ML Challenge — 22,000+ participants worldwide |
 | 📐 **JEE Main 98.4 Percentile** | Among the top engineering entrance scorers in India |
 | ⚡ **IIITDM Jabalpur** | Prestigious NIT-equivalent institute — ECE, Batch of 2028 |
-| 💻 **450+ DSA Problems** | LeetCode + CodeChef 2★ (max 1520) + Codeforces (max 1050) |
+| 💻 **450+ DSA Problems** | LeetCode + CodeChef 2★ (max 1520) + Codeforces (max 1095) |
 
 </div>
 
