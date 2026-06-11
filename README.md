@@ -42,7 +42,7 @@ class Piyush:
 
 | 🥇 Achievement | 📊 Details |
 |:---|:---|
-| 🌍 **MLH Top 50 Global** | HackByte 4.0 — Beat 120+ teams in a 36-hour sprint |
+| 🌍 **MLH Top 50 Global** | HackByte 4.0 — Competing with 120+ teams in a 36-hour sprint |
 | 🎯 **Kaggle Top 6%** | Titanic ML Challenge — 22,000+ participants worldwide |
 | 📐 **JEE Main 98.4 Percentile** | Among the top engineering entrance scorers in India |
 | ⚡ **IIITDM Jabalpur** | Prestigious NIT-equivalent institute — ECE, Batch of 2028 |
