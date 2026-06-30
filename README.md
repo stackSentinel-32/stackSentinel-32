@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Piyush%20Madheshiya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Developer%20%7C%20ECE%20%40%20IIITDM%20Jabalpur%20%7C%20Kaggle%20Top%206%25&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+that+solves+real+problems+%F0%9F%A4%96;RAG+Pipelines+%7C+LLMs+%7C+Full-Stack+AI+Apps;Top+50+Global+MLH+Hackathon+%7C+HackByte+4.0;Let%27s+build+something+extraordinary+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+https://github.com/user-attachments/assets/41c5b753-d382-49a9-bb53-4c7e1be3506e
+
+<img width="400" height="224" alt="Screen Recording 2026-07-01 002914 (1) (3)" src="https://github.com/user-attachments/assets/1629889e-7bc1-49ff-b66a-436cae0a310c" />
+
+
+https://github.com/user-attachments/assets/e4b4eb18-691d-4eef-aeba-932b54fac258
+
 
 <br/>
 
@@ -16,6 +22,10 @@
 </div>
 
 ---
+
+
+https://github.com/user-attachments/assets/d1e8bc10-8291-4b02-9e54-35749d727d5b
+
 
 ## 👨‍💻 About Me
 
