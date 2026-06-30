@@ -3,6 +3,7 @@
 <img width="100%" height="400" src="https://github.com/user-attachments/assets/1629889e-7bc1-49ff-b66a-436cae0a310c"/>
 
 <br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-madheshiya-62aa78340/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/piyushmadheshiya)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushsmmadheshiya08@gmail.com)
