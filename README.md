@@ -2,18 +2,16 @@
 
 <img width="100%" height="400" src="https://github.com/user-attachments/assets/1629889e-7bc1-49ff-b66a-436cae0a310c"/>
 
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-madheshiya-62aa78340/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/piyushmadheshiya)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushsmmadheshiya08@gmail.com)
 
-<br>
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/codo_demono)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/optimus_sm_08)
 
-<br>
 
 <a href="https://x.com/Piyushsm08">
 <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
