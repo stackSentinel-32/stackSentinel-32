@@ -20,7 +20,6 @@
 ---
 
 
-https://github.com/user-attachments/assets/d1e8bc10-8291-4b02-9e54-35749d727d5b
 
 
 ## 👨‍💻 About Me
