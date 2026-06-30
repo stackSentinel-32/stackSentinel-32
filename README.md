@@ -1,13 +1,9 @@
 <div align="center">
 
 
-
-https://github.com/user-attachments/assets/41c5b753-d382-49a9-bb53-4c7e1be3506e
-
 <img width="400" height="224" alt="Screen Recording 2026-07-01 002914 (1) (3)" src="https://github.com/user-attachments/assets/1629889e-7bc1-49ff-b66a-436cae0a310c" />
 
 
-https://github.com/user-attachments/assets/e4b4eb18-691d-4eef-aeba-932b54fac258
 
 
 <br/>
