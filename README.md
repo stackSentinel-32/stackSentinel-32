@@ -50,10 +50,9 @@ class Piyush:
 | 🤖 **Robo Maze Solver** | 3rd / 40 Teams — Autonomous Navigation & Path Planning |
 
 ---
-
 # 🛠 Technical Arsenal
 
-## Languages
+## 💻 Languages
 
 <p align="center">
 
@@ -65,7 +64,7 @@ class Piyush:
 
 </p>
 
-## AI & Machine Learning
+## 🤖 AI & Machine Learning
 
 <p align="center">
 
@@ -76,7 +75,7 @@ class Piyush:
 
 </p>
 
-## Backend & Databases
+## ⚙️ Backend & Databases
 
 <p align="center">
 
@@ -88,7 +87,7 @@ class Piyush:
 
 </p>
 
-## DevOps & Tools
+## 🚀 DevOps & Tools
 
 <p align="center">
 
@@ -100,13 +99,16 @@ class Piyush:
 
 </p>
 
-### Technical Skills
+## 🎯 Areas of Expertise
 
-- **Languages:** Python, C, C++, Java, JavaScript, SQL, MATLAB
-- **ML/AI:** TensorFlow, Scikit-learn, LangChain, HuggingFace, RAG, RLHF, YOLOv8, ByteTrack, Moondream, EDA, Feature Engineering, Computer Vision
-- **Backend:** FastAPI, Next.js, Streamlit, REST APIs
-- **Databases:** MongoDB, PostgreSQL, ChromaDB, Redis
-- **DevOps:** Docker, Git, GitHub Actions, Linux, CI/CD, Postman, Jupyter
+- 🤖 **AI Agents & LLM Applications**
+- 🔍 **Retrieval-Augmented Generation (RAG)**
+- 👁️ **Computer Vision (YOLOv8, ByteTrack, Moondream)**
+- ⚡ **FastAPI Microservices & REST APIs**
+- 📊 **Machine Learning Pipelines & MLOps**
+- 🐳 **Containerized Deployments with Docker**
+- 🗄️ **Database Design & Optimization**
+- 🧩 **Competitive Programming & DSA**
 
 ---
 
