@@ -1,26 +1,20 @@
 <div align="center">
 
-
 <img width="1000" height="400" alt="Screen Recording 2026-07-01 002914 (1) (3)" src="https://github.com/user-attachments/assets/1629889e-7bc1-49ff-b66a-436cae0a310c" />
-
-
-
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-madheshiya-62aa78340/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/piyushmadheshiya)
-<!--[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/optimus_sm_08)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/optimus_sm_08)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/stackSentinel_32)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/codo_demono)-->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushsmmadheshiya08@gmail.com)
+
+https://x.com/Piyushsm08 | https://www.instagram.com/piyush_ms_08/?hl=en
 
 </div>
 
 ---
-
-
-
 
 ## 👨‍💻 About Me
 
@@ -28,15 +22,13 @@
 class Piyush:
     def __init__(self):
         self.name       = "Piyush Madheshiya"
-        self.role       = "AI/ML Developer"
         self.education  = "B.Tech ECE @ IIITDM Jabalpur (2024–2028) | CPI: 8.3/10"
         self.location   = "Gorakhpur, India 📍"
-        self.focus      = ["RAG Pipelines", "LLMs", "Full-Stack AI Apps", "Feature Engineering"]
-        self.currently  = "Building full-stack AI apps with Gemini, LangChain & FastAPI"
-        self.fun_fact   = "Ranked Top 6% on Kaggle out of 22,000+ global participants 🏆"
-
+        self.fun_fact   = "REM re-entry 😲"
+        
     def quote(self):
-        return "Consistency is the architecture of success."
+        return "The equation of attachment has invisible variables."
+return "I believe the universe is a single equation: every living and non-living thing is a variable, and no change is ever truly local. !!"
 ```
 
 ---
@@ -47,83 +39,15 @@ class Piyush:
 
 | 🥇 Achievement | 📊 Details |
 |:---|:---|
+
 | 🌍 **MLH Top 50 Global** | HackByte 4.0 — Competing with 120+ teams in a 36-hour sprint |
 | 🎯 **Kaggle Top 6%** | Titanic ML Challenge — 22,000+ participants worldwide |
-| 📐 **JEE Main 98.4 Percentile** | Among the top engineering entrance scorers in India |
-| ⚡ **IIITDM Jabalpur** | Prestigious NIT-equivalent institute — ECE, Batch of 2028 |
-| 💻 **450+ DSA Problems** | LeetCode + CodeChef 2★ (max 1520) + Codeforces (max 1095) |
+| 💻 **500+ DSA Problems** | LeetCode + CodeChef 2★ (max 15490) + Codeforces (max 1095) |
+ Watermelon Quiz, Samvaad Club, IIITDM Jabalpur: Secured 3rd Place
+ Robotics Competitions, IIITDM Jabalpur: 3rd/40 teams in Robo Maze Solver (autonomous navigation & algorithmic
+path-planning)
 
-</div>
 
----
-
-## 🚀 Featured Projects
-
-<details>
-<summary><b>🏙️ LifeCheckAI — Real-Time Environmental Risk Platform</b> &nbsp;|&nbsp; <i>MLH Top 50 Global · HackByte 4.0</i></summary>
-
-<br/>
-
-> A full-stack platform serving **real-time AQI, weather & water-quality data** across **50+ Indian cities**, built and shipped in 36 hours.
-
-**What I built:**
-- ⚡ Streaming **FastAPI** backend with **4 AI-provider fallback chains** (Gemini, Groq, DeepSeek, ElevenLabs) — ensuring **99% uptime** during rate-limit spikes
-- 🧪 scikit-learn pipeline that parses **government water-quality PDFs** into structured tables and predicts BIS drinkability compliance at **87% precision**
-- 🌐 **Next.js** frontend with live data updates across all cities
-
-**Stack:** `FastAPI` `Next.js` `Gemini` `Groq` `scikit-learn` `Python`
-
-</details>
-
-<details>
-<summary><b>🩺 MediGuide — AI Medical Assistant (RAG)</b> &nbsp;|&nbsp; <i>Dec 2025 – Jan 2026</i></summary>
-
-<br/>
-
-> End-to-end RAG application that performs **semantic search over medical PDFs**, cutting latency by 40%.
-
-**What I built:**
-- 🔐 JWT authentication + PDF ingestion pipeline serving **50+ concurrent users**
-- 🔍 HuggingFace embeddings + ChromaDB vector store — **40% faster** than naive LLM prompting
-- 🐳 Dockerized with **CI/CD via GitHub Actions** for zero-downtime deployments
-
-**Stack:** `FastAPI` `LangChain` `ChromaDB` `HuggingFace` `MongoDB` `Streamlit` `Docker`
-
-</details>
-
-<details>
-<summary><b>🎬 Movie Recommendation Engine</b> &nbsp;|&nbsp; <i>Sep – Nov 2025</i></summary>
-
-<br/>
-
-> Content-based recommendation system across **10,000+ movies** with sub-200ms latency.
-
-**What I built:**
-- 🧠 TF-IDF vectorization + cosine similarity for intelligent movie matching
-- 🎬 TMDB API integration for live metadata enrichment
-- 🖥️ Streamlit UI handling **100+ daily queries** during college demo week
-
-**Stack:** `Python` `scikit-learn` `Pandas` `Streamlit` `TMDB API`
-
-</details>
-
-<details>
-<summary><b>🚢 Titanic Survival Classifier — Kaggle Top 6%</b> &nbsp;|&nbsp; <i>Jul – Aug 2025</i></summary>
-
-<br/>
-
-> Ensemble ML pipeline that scored **82.28% accuracy** and ranked in the **top 6% out of 22,000+ submissions**.
-
-**What I built:**
-- 🌲 Stacking ensemble: Random Forest + Gradient Boosting + Logistic Regression with GridSearchCV over **200+ hyperparameter combos**
-- 🔧 Advanced feature engineering: cabin-deck extraction, family-size binning, title parsing — boosted F1 by **12%** over baseline
-- 📊 Stratified k-fold cross-validation with meta-learner to reduce overfitting
-
-**Stack:** `Python` `scikit-learn` `Kaggle` `Ensemble Methods`
-
-</details>
-
----
 
 ## 🛠️ Technical Arsenal
 
@@ -160,6 +84,14 @@ class Piyush:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+Technical Skills
+Languages: Python, C, C++, Java, JavaScript, SQL, MATLAB
+ML/AI: scikit-learn, TensorFlow, LangChain, HuggingFace, RAG Pipelines, RLHF, YOLOv8, ByteTrack, Moondream, Feature
+Engineering, EDA, Computer Vision
+Backend & Frameworks: FastAPI, Next.js, Streamlit, REST APIs
+Databases: MongoDB, PostgreSQL, ChromaDB, Redis
+DevOps & Tools: Git, GitHub Actions, Docker, Linux, Postman, Jupyter Notebooks, CI/CD
 </div>
 
 ---
@@ -187,8 +119,8 @@ class Piyush:
 
 | Platform | Handle | Rating / Status |
 |:---:|:---:|:---:|
-| 🟡 CodeChef | codo_demono | ⭐⭐ (max 1518) |
-| 🔵 Codeforces | optimus_sm_08 | max 1095 |
+| 🟡 CodeChef | codo_demono | ⭐⭐ (max 1518) | 200+ problems solved |
+| 🔵 Codeforces | optimus_sm_08 | max 1095 | 100+ problem solved |
 | 🟠 LeetCode | optimus_sm_08 | 150+ problems solved |
 | 🔴 Kaggle | piyushmadheshiya | 🏆 Top 6% globally |
 
