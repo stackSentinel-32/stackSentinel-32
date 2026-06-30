@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img width="1000" height="500" alt="Screen Recording 2026-07-01 002914 (1) (3)" src="https://github.com/user-attachments/assets/1629889e-7bc1-49ff-b66a-436cae0a310c" />
+<img width="1000" height="200" alt="Screen Recording 2026-07-01 002914 (1) (3)" src="https://github.com/user-attachments/assets/1629889e-7bc1-49ff-b66a-436cae0a310c" />
 
 
 
