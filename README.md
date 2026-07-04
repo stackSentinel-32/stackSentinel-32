@@ -136,7 +136,7 @@ class Piyush:
 
 </div>
 
----
+<!-----
 
 # 🏅 Competitive Programming
 
@@ -171,4 +171,4 @@ I'm open to **Internships**, **Research Collaborations**, and exciting **AI/ML P
 
 ![Profile Views](https://komarev.com/ghpvc/?username=stackSentinel-32&style=flat-square)
 
-</div>
+</div>-->
