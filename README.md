@@ -28,7 +28,7 @@
 class Piyush:
     def __init__(self):
         self.name = "Piyush Madheshiya"
-        self.education = "B.Tech ECE @ IIITDM Jabalpur (2024–2028) | CPI: 8.3/10"
+        self.education = "B.Tech ECE @ IIITDM Jabalpur (2024–2028)"
         self.location = "Gorakhpur, India 📍"
         self.fun_fact = "REM Re-entry 😴"
 
@@ -37,9 +37,9 @@ class Piyush:
 
     def philosophy(self):
         return (
-            "I believe the universe is a single equation--
-             every living and non-living thing is a variable,
-             and no change is ever truly local."
+            "I believe the universe is a single equation--"
+            "every living and non-living thing is a variable,"
+            "and no change is ever truly local."
         )
 ```
 
