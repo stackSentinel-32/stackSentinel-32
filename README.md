@@ -37,9 +37,9 @@ class Piyush:
 
     def philosophy(self):
         return (
-            "I believe the universe is a single equation: "
-            "every living and non-living thing is a variable, "
-            "and no change is ever truly local."
+            "I believe the universe is a single equation--
+             every living and non-living thing is a variable,
+             and no change is ever truly local."
         )
 ```
 
