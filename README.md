@@ -136,5 +136,3 @@ class Piyush:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=stackSentinel-32&theme=github-dark"/>
 
 </div>
-
-<img height="200" src="https://metrics.lecoq.io/stackSentinel-32?template=classic&base=activity,repositories&config.timezone=Asia%2FCalcutta&theme=dark"/>
