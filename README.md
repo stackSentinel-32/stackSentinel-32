@@ -25,7 +25,7 @@
 
 # 👨‍💻 About Me
 
-```python
+\`\`\`python
 class Piyush:
     def __init__(self):
         self.name = "Piyush Madheshiya"
@@ -42,7 +42,7 @@ class Piyush:
             "every living and non-living thing is a variable,"
             "and no change is ever truly local."
         )
-```
+\`\`\`
 
 ---
 
