@@ -11,6 +11,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/codo_demono)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/optimus_sm_08)
 
+[![Profile Views](https://komarev.com/ghpvc/?username=stackSentinel-32&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)](https://github.com/stackSentinel-32)
 <a href="https://x.com/Piyushsm08">
 <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
 </a>
