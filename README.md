@@ -137,39 +137,4 @@ class Piyush:
 
 </div>
 
-<!-----
-
-# 🏅 Competitive Programming
-
-| Platform | Handle | Status |
-|:---------|:------|:------|
-| 🟡 CodeChef | `codo_demono` | ⭐⭐ (Max 1518) • 200+ Solved |
-| 🔵 Codeforces | `optimus_sm_08` | Max 1095 • 100+ Solved |
-| 🟠 LeetCode | `optimus_sm_08` | 150+ Problems Solved |
-| 🔴 Kaggle | `piyushmadheshiya` | 🏆 Top 6% Globally |
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-I'm open to **Internships**, **Research Collaborations**, and exciting **AI/ML Projects**.
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-madheshiya-62aa78340/)
-
-[![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail)](mailto:piyushsmmadheshiya08@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-*"Consistency is the architecture of success."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=stackSentinel-32&style=flat-square)
-
-</div>-->
+<img height="200" src="https://metrics.lecoq.io/stackSentinel-32?template=classic&base=activity,repositories&config.timezone=Asia%2FCalcutta&theme=dark"/>
